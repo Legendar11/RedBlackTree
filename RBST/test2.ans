@@ -1,0 +1,3 @@
+addI 100000
+removeI 99990
+print

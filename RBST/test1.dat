@@ -1,0 +1,10 @@
+add 10000000 elements in 18085 ms 
+
+minimum = 0
+
+maximum = 32767
+
+finded 10000 = true
+finded 10000 in 0 ms 
+find 10000 elements in 6 ms 
+remove 10000 elements in 13 ms 
